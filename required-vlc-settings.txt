@@ -1,0 +1,4 @@
+extraintf=luaintf
+lua-intf=vlc-previous-frame-hotkey
+input-fast-seek=0
+key-pause=w
